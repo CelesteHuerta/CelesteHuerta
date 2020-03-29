@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+.title{
+  color: red;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.myDiv2{
+  color: red;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.myDiv {
+  color: red;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#myInput {
+  display: none;
+  margin: 0 auto;
+}
+
+#myParagraph {
+  color: white;
+  display: none;
+  width: 180px;
+  margin: 5px auto;
+}
